@@ -44,7 +44,39 @@ ____
 
 Or even more clearly:
 
-"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."
+____
+Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
+____
+
+== Moore's Law
+____
+The power of computers per unit cost doubles every 24 month.
+____
+
+The most popular version states:
+
+____
+The number of transistors on an integrated circuit will double in about 18 months.
+____
+
+Or
+____
+The processing speed of computers will double every two years!
+____
+
+
+== Wirth's law
+____
+Software gets slower faster than hardware gets faster.
+____
+
+== Pareto Principle aka The 80-20 rule
+____
+For many phenomena, 80% of consequences stem from 20% of the causes.
+____
+
+This is the principle behind the painful truth that 80% of the bugs in the code arise from 20% of the code.
+Otherwise stated, 80% of the work done in a company is performed by 20% of the staff. The problem is you don't always have a clear idea of which 20%.
 
 == Abbreviations
 
@@ -72,3 +104,6 @@ Guarantees that all transactions will occur in isolation. No transaction will be
 * Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write
 * Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
+=== WYSIWYG
+
+In computing, WYSIWYG, an acronym for *What You See Is What You Get*,is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product,[2] such as a printed document, web page, or slide presentation.
