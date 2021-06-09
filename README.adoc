@@ -80,7 +80,7 @@ Otherwise stated, 80% of the work done in a company is performed by 20% of the s
 
 == Abbreviations
 
-=== ACID Definition
+=== ACID 
 ACID is an acronym that stands for Atomicity, Consistency, Isolation, Durability. These are explained below.
 
 ==== Atomicity
