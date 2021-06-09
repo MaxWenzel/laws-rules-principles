@@ -1,0 +1,6 @@
+= Laws, Rules & Principles
+
+== The Priciples of Object Oriented Desgin
+
+* The Single Responsibility Principle: A class should have one, and only one, reason to change.
+* The Open Closed Principle: You should be able to extend a classes behavior, without modifying it.
