@@ -2,5 +2,40 @@
 
 == The Priciples of Object Oriented Desgin
 
+=== Class Design
+
 * The Single Responsibility Principle: A class should have one, and only one, reason to change.
 * The Open Closed Principle: You should be able to extend a classes behavior, without modifying it.
+* The Liskov Substitution Principle: Derived classes must be substitutable for their base classes.
+* The Interface Segregation Principle: Make fine grained interfaces that are client specific.
+* The Dependency Inversion Principle: Depend on abstractions, not on concretions.
+
+=== Package Design
+
+==== Cohesion
+
+* The Release Reuse Equivalency Principle: The granule of reuse is the granule of release.
+* The Common Closure Principle: Classes that change together are packaged together.
+* The Common Reuse Principle: Classes that are used together are packaged together.
+
+==== Coupling 
+
+* The Acyclic Dependencies Principle: The dependency graph of packages must have no cycles.
+* The Stable Dependencies Principle: Depend in the direction of stability.
+* The Stable Abstractions Principle: Abstractness increases with stability.
+
+== Abbreviations
+
+=== ACID Definition
+ACID is an acronym that stands for Atomicity, Consistency, Isolation, Durability. These are explained below.
+
+==== Atomicity
+Atomicity means that you guarantee that either all of the transaction succeeds or none of it does. You don’t get part of it succeeding and part of it not. If one part of the transaction fails, the whole transaction fails. With atomicity, it’s either “all or nothing”.
+
+==== Consistency
+This ensures that you guarantee that all data will be consistent. All data will be valid according to all defined rules, including any constraints, cascades, and triggers that have been applied on the database.
+
+==== Isolation
+Guarantees that all transactions will occur in isolation. No transaction will be affected by any other transaction. So a transaction cannot read data from any other transaction that has not yet completed. 
+
+
