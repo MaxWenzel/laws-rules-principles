@@ -37,9 +37,11 @@ The Law of Demeter (LoD) or principle of least knowledge is a design guideline f
 * Only talk to your immediate friends.
 
 == Conway’s Law
-Any piece of software reflects the organizational structure that produced it.
+"Any piece of software reflects the organizational structure that produced it."
+
 Or even more clearly:
-Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
+
+"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."
 
 == Abbreviations
 
