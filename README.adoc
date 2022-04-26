@@ -88,33 +88,33 @@ ____
 This is the principle behind the painful truth that 80% of the bugs in the code arise from 20% of the code.
 Otherwise stated, 80% of the work done in a company is performed by 20% of the staff. The problem is you don't always have a clear idea of which 20%.
 
-== Abbreviations
+= Abbreviations
 
-=== ACID 
+== ACID 
 ACID is an acronym that stands for Atomicity, Consistency, Isolation, Durability. These are explained below.
 
-==== Atomicity
+=== Atomicity
 Atomicity means that you guarantee that either all of the transaction succeeds or none of it does. You don’t get part of it succeeding and part of it not. If one part of the transaction fails, the whole transaction fails. With atomicity, it’s either “all or nothing”.
 
-==== Consistency
+=== Consistency
 This ensures that you guarantee that all data will be consistent. All data will be valid according to all defined rules, including any constraints, cascades, and triggers that have been applied on the database.
 
-==== Isolation
+=== Isolation
 Guarantees that all transactions will occur in isolation. No transaction will be affected by any other transaction. So a transaction cannot read data from any other transaction that has not yet completed. 
 
-=== BASE
+== BASE
 
 * Basic Availability: The database appears to work most of the time.
 * Soft-state: Stores don’t have to be write-consistent, nor do different replicas have to be mutually consistent all the time.
 * Eventual consistency: Stores exhibit consistency at some later point (e.g., lazily at read time).
 
-=== CAP theorem
+== CAP theorem
 
 * Consistency: Every read receives the most recent write or an error
 * Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write
 * Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
-=== DRY principle
+== DRY principle
 
 Don't repeat yourself (DRY, or sometimes do not repeat yourself) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
 
@@ -124,7 +124,7 @@ Hypermedia as the Engine of Application State (HATEOAS) is a constraint of the R
 
 With HATEOAS, a client interacts with a network application whose application servers provide information dynamically through hypermedia. A REST client needs little to no prior knowledge about how to interact with an application or server beyond a generic understanding of hypermedia.
 
-=== KISS principle
+== KISS principle
 
 KISS, an acronym for keep it simple, stupid, is a design principle noted by the U.S. Navy in 1960.The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer Kelly Johnson. The term "KISS principle" was in popular use by 1970. Variations on the phrase include: "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward", "keep it small and simple", "keep it simple, soldier", or "keep it simple, sailor".
 
@@ -132,15 +132,15 @@ KISS, an acronym for keep it simple, stupid, is a design principle noted by the 
 
 Representational state transfer (REST) is a software architectural style that was created to guide the design and development of the architecture for the World Wide Web. REST defines a set of constraints for how the architecture of an Internet-scale distributed hypermedia system, such as the Web, should behave. The REST architectural style emphasises the scalability of interactions between components, uniform interfaces, independent deployment of components, and the creation of a layered architecture to facilitate caching components to reduce user-perceived latency, enforce security, and encapsulate legacy systems.[1] REST has been employed throughout the software industry and is a widely accepted set of guidelines for creating stateless, reliable web services.
 
-=== WISCY
+== WISCY
 
 Why Isn't Someone Coding Yet (WISCY)?
 
-=== WYSIWYG
+== WYSIWYG
 
 In computing, WYSIWYG, an acronym for *What You See Is What You Get*,is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product, such as a printed document, web page, or slide presentation.
 
-=== YAGNI principle
+== YAGNI principle
 
 "You aren't gonna need it" (YAGNI) is a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary.XP co-founder Ron Jeffries has written: "Always implement things when you actually need them, never when you just foresee that you need them." Other forms of the phrase include "You aren't going to need it" and "You ain't gonna need it".
 
