@@ -28,6 +28,10 @@
 
 In computing, the robustness principle is a design guideline for software that states: "be conservative in what you do, be liberal in what you accept from others". It is often reworded as: "be conservative in what you send, be liberal in what you accept". The principle is also known as Postel's law, after Jon Postel, who used the wording in an early specification of TCP.
 
+== Brooks' law 
+
+Adding manpower to a late software project makes it later.
+
 == Law of Holes
 
 The first law of holes, or the law of holes, is an adage which states: "if you find yourself in a hole, stop digging". Digging a hole makes it deeper and therefore harder to get out of, which is used as a metaphor that when in an untenable position, it is best to stop carrying on and exacerbating the situation.
