@@ -26,7 +26,7 @@
 
 == Robustness Principle
 
-In computing, the robustness principle is a design guideline for software that states: "be conservative in what you do, be liberal in what you accept from others". It is often reworded as: "be conservative in what you send, be liberal in what you accept". The principle is also known as Postel's law, after Jon Postel, who used the wording in an early specification of TCP.
+In computing, the robustness principle is a design guideline for software that states: "be conservative in what you do, be liberal in what you accept from others". It is often reworded as: "be conservative in what you send, be liberal in what you accept". The principle is also known as **Postel's law**, after Jon Postel, who used the wording in an early specification of TCP.
 
 == Brooks' law 
 
