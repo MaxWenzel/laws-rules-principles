@@ -4,11 +4,11 @@
 
 === Class Design
 
-* The Single Responsibility Principle: A class should have one, and only one, reason to change.
-* The Open Closed Principle: You should be able to extend a classes behavior, without modifying it.
-* The Liskov Substitution Principle: Derived classes must be substitutable for their base classes.
-* The Interface Segregation Principle: Make fine grained interfaces that are client specific.
-* The Dependency Inversion Principle: Depend on abstractions, not on concretions.
+* **S**ingle Responsibility Principle: A class should have one, and only one, reason to change.
+* **O**pen Closed Principle: You should be able to extend a classes behavior, without modifying it.
+* **L**iskov Substitution Principle: Derived classes must be substitutable for their base classes.
+* **I**nterface Segregation Principle: Make fine grained interfaces that are client specific.
+* **D**ependency Inversion Principle: Depend on abstractions, not on concretions.
 
 === Package Design
 
@@ -23,6 +23,13 @@
 * The Acyclic Dependencies Principle: The dependency graph of packages must have no cycles.
 * The Stable Dependencies Principle: Depend in the direction of stability.
 * The Stable Abstractions Principle: Abstractness increases with stability.
+
+== Common Principles
+
+* Principle of least surprise
+* Divide et impera
+* Separation of Concerns
+* Information Hiding
 
 == Postel's law
 
@@ -43,12 +50,6 @@ The Law of Demeter (LoD) or principle of least knowledge is a design guideline f
 * Each unit should have only limited knowledge about other units: only units "closely" related to the current unit.
 * Each unit should only talk to its friends; don't talk to strangers.
 * Only talk to your immediate friends.
-
-== Conway’s Law
-
-____
-Any piece of software reflects the organizational structure that produced it.
-____
 
 Or even more clearly:
 
@@ -91,6 +92,39 @@ ____
 
 This is the principle behind the painful truth that 80% of the bugs in the code arise from 20% of the code.
 Otherwise stated, 80% of the work done in a company is performed by 20% of the staff. The problem is you don't always have a clear idea of which 20%.
+
+== Metrics
+
+=== Measuring
+
+____
+You cannot control what you cannot measure. (Tom DeMarco)
+____
+
+=== McCabe Metric
+
+**Cyclomatic complexity** is a software metric used to indicate the complexity of a program. It is a quantitative measure of the number of linearly independent paths through a program's source code. It was developed by Thomas J. McCabe, Sr. in 1976.
+
+=== Gunning fog index 
+
+In linguistics, the Gunning fog index is a readability test for English writing. The index estimates the years of formal education a person needs to understand the text on the first reading. For instance, a fog index of 12 requires the reading level of a United States high school senior (around 18 years old). The test was developed in 1952 by Robert Gunning, an American businessman who had been involved in newspaper and textbook publishing.
+
+== Organizations
+
+=== Conway’s Law
+____
+Any piece of software reflects the organizational structure that produced it.
+____
+
+=== Dunning–Kruger effect
+
+The Dunning–Kruger effect is a cognitive bias that describes the systematic tendency of people with low ability in a specific area to give overly positive assessments of this ability. The term may also describe the tendency of high performers to underestimate their skills. 
+
+=== The Peter Principle
+
+____
+In a hierarchy every employee tends to rise to his level of incompetence.
+____
 
 = Abbreviations
 
