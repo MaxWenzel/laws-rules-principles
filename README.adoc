@@ -51,12 +51,6 @@ The Law of Demeter (LoD) or principle of least knowledge is a design guideline f
 * Each unit should only talk to its friends; don't talk to strangers.
 * Only talk to your immediate friends.
 
-Or even more clearly:
-
-____
-Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
-____
-
 == Moore's Law
 ____
 The power of computers per unit cost doubles every 24 month.
@@ -114,6 +108,12 @@ In linguistics, the Gunning fog index is a readability test for English writing.
 === Conway’s Law
 ____
 Any piece of software reflects the organizational structure that produced it.
+____
+
+Or even more clearly:
+
+____
+Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
 ____
 
 === Dunning–Kruger effect
