@@ -39,6 +39,10 @@ In computing, the **robustness principle** is a design guideline for software th
 
 Adding manpower to a late software project makes it later.
 
+== Hofstadter's law 
+
+It always takes longer than you expect, even when you take into account Hofstadter's law.
+
 == Law of Holes
 
 The first law of holes, or the law of holes, is an adage which states: "if you find yourself in a hole, stop digging". Digging a hole makes it deeper and therefore harder to get out of, which is used as a metaphor that when in an untenable position, it is best to stop carrying on and exacerbating the situation.
