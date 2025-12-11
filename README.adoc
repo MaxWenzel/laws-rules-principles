@@ -139,9 +139,13 @@ ____
 The Dunning–Kruger effect is a cognitive bias that describes the systematic tendency of people with low ability in a specific area to give overly positive assessments of this ability. The term may also describe the tendency of high performers to underestimate their skills. 
 
 === The Peter Principle
-
 ____
 In a hierarchy every employee tends to rise to his level of incompetence.
+____
+
+=== Imposter Syndrome
+____
+The subjective experience of perceived self-doubt in one's abilities and accomplishments compared with others, despite evidence to suggest the contrary.
 ____
 
 = Abbreviations
