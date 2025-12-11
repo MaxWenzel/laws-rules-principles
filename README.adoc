@@ -75,6 +75,10 @@ ____
 The processing speed of computers will double every two years!
 ____
 
+== Goodhart's Law
+____
+Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+____
 
 == Wirth's law
 ____
@@ -85,6 +89,12 @@ ____
 ____
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
 ____
+
+== Sunk-cost-fallacy-effect
+____
+The irrational tendency to keep investing in a failing endeavor (like a project, relationship, or even watching a bad movie) because of the time, money, or effort already spent (the "sunk costs"), rather than cutting losses and choosing a better future option.
+____
+
 
 
 == Pareto Principle aka The 80-20 rule
