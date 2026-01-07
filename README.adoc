@@ -96,7 +96,6 @@ The irrational tendency to keep investing in a failing endeavor (like a project,
 ____
 
 
-
 == Pareto Principle aka The 80-20 rule
 ____
 For many phenomena, 80% of consequences stem from 20% of the causes.
@@ -104,6 +103,17 @@ ____
 
 This is the principle behind the painful truth that 80% of the bugs in the code arise from 20% of the code.
 Otherwise stated, 80% of the work done in a company is performed by 20% of the staff. The problem is you don't always have a clear idea of which 20%.
+
+== SPOT Principle
+____
+In information science and information technology, single source of truth (SSOT) architecture, or single point of truth (SPOT) architecture, for information systems is the practice of structuring information models and associated data schemas such that every data element is mastered (or edited) in only one place,
+providing data normalization to a canonical form
+____
+
+== POLA Principle
+____
+The principle of least astonishment (POLA), also known as principle of least surprise (POLS), proposes that a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users.
+____
 
 == Metrics
 
