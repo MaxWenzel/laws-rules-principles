@@ -35,8 +35,17 @@
 
 In computing, the **robustness principle** is a design guideline for software that states: "be conservative in what you do, be liberal in what you accept from others". It is often reworded as: "be conservative in what you send, be liberal in what you accept". The principle is also known as Postel's law, after Jon Postel, who used the wording in an early specification of TCP.
 
-== Brooks' law 
+== Amdahl's law 
+____
+The overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used.
+____
 
+== Lehman's laws 
+____
+The laws describe a balance between forces driving new developments on one hand, and forces that slow down progress on the other hand. 
+____
+
+== Brooks' law 
 ____
 Adding manpower to a late software project makes it later.
 ____
