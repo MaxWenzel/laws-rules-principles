@@ -167,6 +167,28 @@ ____
 The subjective experience of perceived self-doubt in one's abilities and accomplishments compared with others, despite evidence to suggest the contrary.
 ____
 
+=== Parkinson's law of triviality
+____
+People within an organization commonly give disproportionate weight to trivial issues.
+____
+
+=== Three Laws of Consulting (Gerald Weinberg)
+____
+The First Law of Consulting:
+In spite of what your client may tell you, there’s always a problem.
+
+The Second Law of Consulting:
+No matter how it looks at first, it’s always a people problem.
+
+The Third Law of Consulting:
+Never forget they’re paying you by the hour, not by the solution.
+____
+
+= Quotes
+____
+Walking on water and developing software from a specification are easy if both are frozen. (Edward Berard)
+____
+
 = Abbreviations
 
 == ACID 
