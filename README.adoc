@@ -104,6 +104,10 @@ ____
 The irrational tendency to keep investing in a failing endeavor (like a project, relationship, or even watching a bad movie) because of the time, money, or effort already spent (the "sunk costs"), rather than cutting losses and choosing a better future option.
 ____
 
+== Lindy effect
+____
+The Lindy effect (also known as Lindy's law) is a theorized phenomenon by which the future life expectancy of some non-perishable thing, like a technology or an idea, is proportional to its current age. 
+____
 
 == Pareto Principle aka The 80-20 rule
 ____
